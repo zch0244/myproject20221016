@@ -14,6 +14,9 @@
       <van-tabbar-item icon="setting-o">标签</van-tabbar-item>
     </van-tabbar>
     <div class="QrImg">
+    <span>
+      123
+    </span>
     </div>
   </div>
 </template>
